@@ -1,2 +1,6 @@
-This is a repository for Python code for data visualization, starting with Kaggle's microcourse:
-https://www.kaggle.com/alexisbcook/hello-seaborn
+This is a repository for Python code for data visualization, with code from introductory courses as well as some flights of fancy.
+
+1. General Assembly's Intro to Python course by Kasun Maldeni (https://github.com/kasun-maldeni/intro-to-python)
+- Intro to Python
+
+2. Kaggle's microcourse on Seaborn (https://www.kaggle.com/alexisbcook/hello-seaborn)
